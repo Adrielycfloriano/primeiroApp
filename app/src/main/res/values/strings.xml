@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dados de Cadastro</string>
+    <string name="cadastro_de_produtos">Cadastro de Produtos</string>
+    <string name="salvar">Salvar</string>
+    <string name="pre_o_do_produto">Preço do produto:</string>
+    <string name="nome">Nome:</string>
+    <string name="quantidade_deseja">Quantidade deseja:</string>
+    <string name="sucesso_produto_salvo">Sucesso! Produto salvo</string>
+</resources>
